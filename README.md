@@ -110,4 +110,4 @@ After training the models, we evaluated their performance using R², accuracy, a
 ## Author
 
 - **[Hossam Taha]**
-- LinkedIn: [[Your LinkedIn Link](https://www.linkedin.com/in/hossam-taha-41b724288/)]
+- LinkedIn: [[Hossam Taha](https://www.linkedin.com/in/hossam-taha-41b724288/)]
